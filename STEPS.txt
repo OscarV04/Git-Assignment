@@ -1,0 +1,49 @@
+The following steps documents how I started and ended the git graph
+
+Prepping: Create the git assignment repo and branches "main" and "bug-fix"
+ 
+Step 1. Initial Commit [0]
+
+Step 2. First User Commit on Main[1]
+
+Step 3. Second User Commit on Main [2]
+
+- swap to bug-fix branch -
+
+Step 4. first user commit on Bug-Fix [3]
+
+Step 5. second user commit on Bug-Fix [4]
+
+- make bug-fix-experimental branch here -
+
+Step 6. Merge main to bug-fix [5]
+
+Step 7. third user commit on bug-fix [6]
+
+- swap to bug-fix-experimental branch-
+
+Step 8. first user commit on bug-fix-experimental [7]
+
+Step 9. second user commit on bug-fix-experimental [8]
+
+Step 10. Merge bug-fix from bug-fix-experimental [9]
+
+- Swap back to main branch -
+
+Step 11. Third user commit on Main [10]
+
+- Swap to bug-fix branch -
+
+Step 12. third user commit on Bug-Fix [11]
+
+Step 13. fourth user commit on Bug-Fix [12]
+
+Step 14. Merge Bug-Fix to Main [13]
+
+- Swap to back to Main -
+
+Step 15. Final user commit to Main [14] 
+
+**Complete**
+
+![pepe](https://ih1.redbubble.net/image.1024755513.5439/flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
